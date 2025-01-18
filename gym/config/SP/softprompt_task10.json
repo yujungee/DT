@@ -1,0 +1,10 @@
+{
+    "env": "metaworld",
+    "total_tasks": 1,
+    "train_tasks": [
+        "window-close-v2"
+        ],
+    "test_tasks": [
+        "window-close-v2"
+    ]
+}

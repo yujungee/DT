@@ -1,0 +1,11 @@
+{
+    "env": "ML10",
+    "total_tasks": 15,
+    "train_tasks": [
+        "basketball-v2", "button-press-v2", "dial-turn-v2", "drawer-close-v2", "peg-insert-side-v2",
+        "pick-place-v2", "push-v2", "reach-v2", "sweep-into-v2", "window-open-v2"
+        ],
+    "test_tasks": [
+        "door-close-v2", "drawer-open-v2", "lever-pull-v2", "shelf-place-v2", "sweep-v2"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "env": "MT1",
+    "total_tasks": 1,
+    "train_tasks": [
+        -1
+        ],
+    "test_tasks": [
+        -1
+    ]
+}

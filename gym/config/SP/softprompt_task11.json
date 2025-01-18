@@ -1,0 +1,10 @@
+{
+    "env": "metaworld",
+    "total_tasks": 1,
+    "train_tasks": [
+        "button-press-topdown-v2"
+        ],
+    "test_tasks": [
+        "button-press-topdown-v2"
+    ]
+}

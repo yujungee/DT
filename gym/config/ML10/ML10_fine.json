@@ -1,0 +1,9 @@
+{
+    "env": "ML10",
+    "total_tasks": 1,
+    "train_tasks": [
+        "button-press-v2"],
+    "test_tasks": [
+        "door-close-v2", "drawer-open-v2", "lever-pull-v2", "shelf-place-v2", "sweep-v2"
+    ]
+}

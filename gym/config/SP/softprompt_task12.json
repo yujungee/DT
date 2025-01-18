@@ -1,0 +1,10 @@
+{
+    "env": "metaworld",
+    "total_tasks": 1,
+    "train_tasks": [
+        "door-open-v2"
+        ],
+    "test_tasks": [
+        "door-open-v2"
+    ]
+}

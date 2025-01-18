@@ -1,0 +1,10 @@
+{
+    "env": "metaworld",
+    "total_tasks": 1,
+    "train_tasks": [
+        "lever-pull-v2"
+        ],
+    "test_tasks": [
+        "lever-pull-v2"
+    ]
+}

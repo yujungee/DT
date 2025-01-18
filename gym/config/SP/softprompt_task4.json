@@ -1,0 +1,10 @@
+{
+    "env": "metaworld",
+    "total_tasks": 1,
+    "train_tasks": [
+        "peg-insert-side-v2"
+        ],
+    "test_tasks": [
+        "peg-insert-side-v2"
+    ]
+}

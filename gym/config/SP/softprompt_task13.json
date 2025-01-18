@@ -1,0 +1,10 @@
+{
+    "env": "metaworld",
+    "total_tasks": 1,
+    "train_tasks": [
+        "drawer-open-v2"
+        ],
+    "test_tasks": [
+        "drawer-open-v2"
+    ]
+}
